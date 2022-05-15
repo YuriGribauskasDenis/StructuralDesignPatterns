@@ -2,7 +2,7 @@
 OOP training in python. Structural Design Patterns
 * Adapter
 * Bridge
-* Composit
+* Composite (game engine example)
 * Decorator
 * Facade
 * Flyweight
